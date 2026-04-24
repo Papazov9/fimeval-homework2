@@ -1,0 +1,14 @@
+datasets>=2.16
+huggingface_hub>=0.24
+pillow
+tqdm
+numpy
+torch>=2.2
+transformers>=4.49
+accelerate>=0.33
+
+sacrebleu
+rouge-score
+nltk
+unbabel-comet
+python-dotenv
