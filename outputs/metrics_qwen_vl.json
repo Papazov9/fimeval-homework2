@@ -1,0 +1,45 @@
+{
+  "num_samples": 240,
+  "bleu_avg": 0.0,
+  "rouge_l": 0.0,
+  "meteor": 0.0,
+  "comet_overall": 0.387,
+  "comet_bg": 0.404,
+  "comet_zh": 0.3429,
+  "comet_hr": 0.4256,
+  "comet_en": 0.3632,
+  "comet_it": 0.3943,
+  "comet_sr": 0.4111,
+  "per_language": {
+    "Bulgarian": {
+      "bleu_avg": 0.0,
+      "rouge_l": 0.0,
+      "meteor": 0.0
+    },
+    "Chinese": {
+      "bleu_avg": 0.0,
+      "rouge_l": 0.0,
+      "meteor": 0.0
+    },
+    "Croatian": {
+      "bleu_avg": 0.0,
+      "rouge_l": 0.0,
+      "meteor": 0.0
+    },
+    "English": {
+      "bleu_avg": 0.0,
+      "rouge_l": 0.0,
+      "meteor": 0.0
+    },
+    "Italian": {
+      "bleu_avg": 0.0,
+      "rouge_l": 0.0,
+      "meteor": 0.0
+    },
+    "Serbian": {
+      "bleu_avg": 0.0,
+      "rouge_l": 0.0,
+      "meteor": 0.0
+    }
+  }
+}

@@ -1,0 +1,3075 @@
+[
+  {
+    "question_id": "e3d0bf0a359c0bcd8ff71d71cf741a79",
+    "answers": [
+      "А) Олигопол, Съвършена конкуренция, Олигопол\n\nБ) Съвършена конкуренция\n\nВ) Олигопол"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "12a57ef72081e24580ead8eddbf9a0af",
+    "answers": [
+      "Топчето на пътека А достигне първо края."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "ff5ee69c9f9af270794c0082efdb6036",
+    "answers": [
+      "Видин, Враца, Плевен, В. Търново, Русе, Силистра, Варна, Добрич, Търговище, Шумен"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "216500b0e8a030d6260472026e35fce2",
+    "answers": [
+      "Вятър"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "f04a10e9c11f531c752a50d236e09a44",
+    "answers": [
+      "А. Спадаща тенденция.\nБ. Растяща тенденция.\nВ. 2019 г."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "3bb01a462a4a544a89f8edfc66be1a31",
+    "answers": [
+      "15 грама NaIO3 са попаднали по панталоните на фермера."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "e5a4e1d1ef3e4423b3c6674c8a6b952c",
+    "answers": [
+      "А) 1; Б) 3; В) 2"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "547a38e684cd1bd06609e7522d53c0cc",
+    "answers": [
+      "0.125"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "abb3c6c543d8a874e964869d8b4e0ee3",
+    "answers": [
+      "Хлорът е по-активен от йода."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "c773ae19b5aac817b77330d5de720ae0",
+    "answers": [
+      "JOIN animals AS a ON p.animal_id = a.id\nGROUP BY a.name\nHAVING COUNT(p.id) > 1"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "63a5267fc45658121debd6f701479cc7",
+    "answers": [
+      "Хърватия и Гърция"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "b237dfe4653c59f67b2ac83dfaf945dd",
+    "answers": [
+      "А: минорен кварт, В: мажорен кварт, Б: минорен квинт"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "0f4fb848c2b088070c1d4c1f0d099904",
+    "answers": [
+      "Солево съединение NaCl"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "eeac4b64f93b079f1e16c301128c2778",
+    "answers": [
+      "a) 3 см; размерите на паралелепипеда са 7x5x3 см;\nб) 210 кв. см;\nв) 105 куб. см."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "759f672efd2b027f9e9093a92d872982",
+    "answers": [
+      "1/2 * kq^2 / (a * √3)"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "afbe96f0c05ca8bab62a1bdbf0070d8b",
+    "answers": [
+      "1000000000000000000000000000000000000000000000000000000000000000"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "c3b21e05df9fc10e0034def94101d0ad",
+    "answers": [
+      "А) 2Al + 6NaOH → 2NaAlO₂ + 3H₂↑; H₂ + CuO → Cu + H₂O; B) С горяща спирка; В) 0,15 грама водород; Г) 2"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "b839db80771f54d02225b7fdbb336710",
+    "answers": [
+      "1,25 s"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "37c7f9ef7e4f7d70f0329ac543190df7",
+    "answers": [
+      "2/4 | 3/4 | 4/4 | 5/4 | 6/4 | 7/4 | 8/4 | 9/4 | 10/4 | 11/4 | 12/4 | 13/4 |"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "279e2074c751ee4e5bf677bfe40c1aeb",
+    "answers": [
+      "C1 и C2 са свързани последователно, C3 и C4 са свързани последователно, а еквивалентният капацитет на четирите кондензатора е 0.5C"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "42049ce644a9dd6485bb9418ce6a1321",
+    "answers": [
+      "Невъзможно."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "9503136bc66e4b8dfb70126afd68016f",
+    "answers": [
+      "108 см"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "622adf67538b7dccf3f89259110527ea",
+    "answers": [
+      "a) R_AB = 10 Ω, R_BC = 12 Ω, R_CA = 15 Ω\n\nb) r_A = 4 Ω, r_B = 7 Ω, r_C = 10 Ω\n\nc) Y_AB = 30"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "5997d82d59a84aba038a3976784c35d0",
+    "answers": [
+      "2"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "a9159ac2a0f5d750e71dad01e25dfe00",
+    "answers": [
+      "А) Fтр = 0,9 N, направо; Fтр' = 1,8 N, обратно;\nБ) v = 3 m/s;\nВ) A = 3 Дж;\nГ) Aтр = -2,7 Дж."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "35ba11c9d660295bb311c29b24d0ff0b",
+    "answers": [
+      "Височините са 1-5, градовете са 6-10."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "08287cd1de03295ae58ea20a60b20d83",
+    "answers": [
+      "4-2-1-3"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "8aada7cee72746ff7c2fc6554864194a",
+    "answers": [
+      "Е е калций."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "3a03967db7a1e5f0977bca5ac92b4033",
+    "answers": [
+      "А) хромозомата X  \nБ) 50  \nВ) мъжки  \nГ) женски"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "b742d0d4ff637c2d84ef8e6c1b310455",
+    "answers": [
+      "Лицето на правоъгълника е 16 см²."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "17b8f97c67d54004699b32b529a83337",
+    "answers": [
+      "10 m/s²"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "2e62880ac9976598697cfdd25c7bc3b1",
+    "answers": [
+      "Контактът"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "8626b53ff9fdedb57609edf4e27e757a",
+    "answers": [
+      "А) Афродита"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "1467ae4964ff09c7c9b53c2037dd9133",
+    "answers": [
+      "Селско, горско и рибно стопанство е основен фактор."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "60b9005e6f80a173944133d465ec6e3d",
+    "answers": [
+      "А. Ислам  \nБ. Китай"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "0ca0a5c005f489eb55bb104d7e41d997",
+    "answers": [
+      "10250 лв., 10200 лв., 10150 лв."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "171a1ca0b5968ecc793a84d310e1f1b6",
+    "answers": [
+      "120 Ω"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "973e65506c33d157ec5e4f910d8f6065",
+    "answers": [
+      "Рибонуклеинова киселина и протеин"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "afcd4a7af567c5f3a54b5a9db73a31f4",
+    "answers": [
+      "А - разход, Б - приход, В - разход, Г - приход"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "4399f8b8e7497fd78b81cdc53b7607e1",
+    "answers": [
+      "А) p2 = p1 * V1 / V2, V2 = V1 * p1 / p2\n\nБ) 2 пъти"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "a38134658880f247fa0d061ce76802fa",
+    "answers": [
+      "a) 1:1; b) 4:1; c) 2:1; d) 3:1"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "275bc4fe3f8747c54d19e949fee0814b",
+    "answers": [
+      "(1) Запитване на данни (2) Резултатът ще включва всички книги на автора Иван Вазов от 1883 г. напред."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "853c680fc5380ddf1a74bdd4e520ab50",
+    "answers": [
+      "Tahoma, 24pt, #0000ff"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "78cdab4b34797e9474b3c47674387856",
+    "answers": [
+      "a) Q > 0  \nb) k_эфф = 90 N/m  \nc) T = 2π√(m/k_эфф) = 0.14 s"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "f3cd63b15204fcfe3ce43c29bad0a1ed",
+    "answers": [
+      "10 см"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "ef520d75ee45ff7b597880ca3775b8e9",
+    "answers": [
+      "А) 200 лв./бр., 20 бр.\nБ) 50, 40, 30, 20, 10\nВ) Предлагано количество\nГ) 240 лв./бр."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "e15ff9d2aee65fc3c80c6ba0e70b87d4",
+    "answers": [
+      "А) Мажорна тоналност."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "6cf86e4fce7474990dd6932ee8fda1ca",
+    "answers": [
+      "Б) 160 N/C"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "2bc803d155360f87d287eeb4d6e460f7",
+    "answers": [
+      "A) Готика; Б) Романтика; В) Ренесанс"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "e0fe5d8e56351ab3c38b6758056eb3b2",
+    "answers": [
+      "Българското царство (809-812 г.)"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "d9f59f2db7b819449818a932eb7d2c41",
+    "answers": [
+      "10 g"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "ec67bfd0b0098d9cb60dbcccb216410c",
+    "answers": [
+      "15 V"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "e58e71fed8827496caec5fd0fa23e853",
+    "answers": [
+      "а) 10 km/h; б) 4 m; в) 20"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "91cc28ee086509893733458554b531a3",
+    "answers": [
+      "Лицето на фигурата е 2013 квадратни см², а обиколката е 4026 см."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "62a295689b3e5df3ecccaa05f3535d7c",
+    "answers": [
+      "Кодон1: УАЦ; кодон2: ГАУ"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "3c69662107bde366fc34866348f9f25b",
+    "answers": [
+      "Нитрид на алуминий (AlN)"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "7bad90b15a9ad6cd560d8bb59d5daae6",
+    "answers": [
+      "(1) - price: double\n(2) - Run(string program)\n(3) - ToString()"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "6d7afc789bfd8aecf344f5ec7e844567",
+    "answers": [
+      "А - акрозома, Б - хаплоидно ядро, В - митохондрии"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "c27637195413b58ba8826c03139c589c",
+    "answers": [
+      "А) Мажорна тоналност."
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "5b39d491854c3a17c03ba740af8a64e6",
+    "answers": [
+      "А. СЕНАСИОН, ЕПОХАЛЕН ПРОГРЕС\nБ. ТЕРРИТОРИАЛНА ИНТЕГРАЦИЯ"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "b4b8e7ae27064ef22a50e740af794409",
+    "answers": [
+      "А) 3D обиколки на музеи, виртуални изложби, интерактивни експонати  \nБ) Достъпност, интерактивност, дифузия, културна образователна резон"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "a46a91ee7183213306cc0e26481454ea",
+    "answers": [
+      "Категория в Rows, Оборот в Values"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "24b00976ad955c2a005be7e41faff1c9",
+    "answers": [
+      "(1) Май  \n(2) Септември  \n(3) Януари и Декември"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "7a5d88c61a55090e6c2c389232f76c70",
+    "answers": [
+      "Варна, Пловдив, София, Бургас, Велико Търново, Стара Загора, Пазарджик, Русе, Шумен, Ловеч, Враца, Сливен, Кюстендил"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "1a82696dd26e02b1018bdf6675fcb88c",
+    "answers": [
+      "а) 3 N\nб) 200 N/m\nв) 1 s\nг) 15 cm\nд) 1 N"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "24d156cecadaa9d9a67ca2bf2718029a",
+    "answers": [
+      "h = 1.25 m"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "60f0f717ab7b0396415514dd59df5238",
+    "answers": [
+      "I = U₀ / R"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "819627b7e0a94f0eec7ae7164cde8809",
+    "answers": [
+      "Матрична структура"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "661bc9c08f2c0edd3b9286925a440be6",
+    "answers": [
+      "Услугови"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "9b1d2ea7d4310cc5be79b4953ee1f77a",
+    "answers": [
+      "А) перспектива на кръгови точки; Б) перспектива на сферична повърхност; В) перспектива на кръгови точки и перспектива на сферична повърх"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "529c71631141e2fad3c30f7092899edd",
+    "answers": [
+      "А) Карикатура  \nБ) Основни изразни средства: контраст, символика, перспектива; в карикатурата се използват за нагласяване на темата и подчертаване на съдър"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "fb7f2634f877d912794053e744606e55",
+    "answers": [
+      "А) H = 250 m\nБ) v_B = 10 m/s"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "52b9dfd5c77dc8526625d1a588e50928",
+    "answers": [
+      "V2 = 44.8 L, V3 = 11.2 L, V4 = 22.4 L"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "7dd1e8ad63da497a255e1dc53d139d03",
+    "answers": [
+      "10^-3 m"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "fb8abd8ae0ebe0f3bf09cfbcf12b24aa",
+    "answers": [
+      "x_s = x * cos(β)"
+    ],
+    "language": "Bulgarian"
+  },
+  {
+    "question_id": "5e2a3cb24f261145acbac35bfa9db2ad",
+    "answers": [
+      "（1）CsI；（2）\\( y = \\frac{e U L_3}{2 m d_2^2} \\)；（3）① \\( v_y = \\frac{e k L_2}{m} \\)，② \\( \\Delta y = \\frac{"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "8c45b750c27f8cc1956ee91e2464d04e",
+    "answers": [
+      "(1) 细胞  \n(2) 促进；减弱  \n(3) ②；加入5-HT膜受体抑制剂（N）后，IFN-β相对表达水平下降，HSV-1相对增殖水平上升  \n(4) ① 腹腔注射"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "e55fc08a3d118649296f0f64d1cc6e38",
+    "answers": [
+      "13.00；5.7；0.056"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "b103c48250de4193267682fae8f8aaf6",
+    "answers": [
+      "(1) 稀释涂布平板法；筛选出不同温度下生长的内生放线菌。\n(2) 扩增；③；重组质粒中R基因中间序列未被敲除。\n(3) 将内生放线菌与稻瘟病致病"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "1d52091e85811bf6e521f247de2eab79",
+    "answers": [
+      "(1) 0.24 m²  \n(2) 3.3×10⁻¹¹ s"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "eb59d2b9ed23263ae0e6beb03dc011f5",
+    "answers": [
+      "（1）4.50  \n（2）质量的增加量；3.0  \n（3）1.0；200"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "5a1fd89763a161fd950f32113629fe1f",
+    "answers": [
+      "(1) 0.02m；(2) 0.04m"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "afdd6ec08143ad2a4f825e47a05c5a44",
+    "answers": [
+      "(1) \\( E = B \\omega_0 L r_1 \\)\n\n(2) \\( Q = 4 \\pi R B^2 \\omega_0^2 L^2 r_1^2 / (3R) \\)\n\n(3) \\( T = \\frac{2\\pi"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "07ef5d0747b670ec8fc2d859745d3553",
+    "answers": [
+      "（1）20000人；（2）1.3小时；（3）有95%的把握。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "d2613bf323efed86c4ded5ddc5d0c8bc",
+    "answers": [
+      "(1) \\(\\frac{3mv_0}{2qB}\\)\n\n(2) \\(4\\pi m / qB\\)\n\n(3) \\(\\frac{5\\pi m}{qB}\\)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "02463ec558eeb92d338a49b05e850256",
+    "answers": [
+      "(1) E = B * L * v₀, 电流方向从机械臂2流向机械臂1。\n(2) F₁ = B * I₁ * L, F₂ = B * I₂ * L; Q = C * U。\n(3) Δx ≥ (m * v₀"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "aa31945a8b24f1af4ca7a613fb5c1c77",
+    "answers": [
+      "(1) 80；偏大\n(2) C\n(3) 增加橡皮筋的长度"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "0f99ffbcf896c588a74c5bfa52bfbb08",
+    "answers": [
+      "(1) 三颈烧瓶，c  \n(2) CO₂  \n(3) 去除THF  \n(4) F₃C-SO₃Na + HCl → F₃C-SO₂Cl + NaCl；加入盐酸后不再产生气泡"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "097eb65481d8ab2cf1995334ae1a97b6",
+    "answers": [
+      "BG蛋白与GK蛋白竞争结合CAO启动子片段。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "91bb41cadc4788fe43f41095147be3ad",
+    "answers": [
+      "(1) 4m/s  \n(2) -0.8J  \n(3) 0.8m  \n(4) 6N"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "d737e3690a002f44f7f013a9e7cbfec3",
+    "answers": [
+      "（1）冷觉感受器  \n（2）神经  体液  促进产热，减少散热  \n（3）神经调节  \n（4）胰岛B细胞分泌的胰岛素增加，抑制了胰高血糖素的分泌，从而降低血糖浓度"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "061935bc7265d4c18c368daea54098df",
+    "answers": [
+      "B. ②③④"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "df4adfae4a5e05bbf8fc3c5997005bed",
+    "answers": [
+      "2.9"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "7a15ce5bdee754cc0f0943df14871cbf",
+    "answers": [
+      "(1) 2ΔH₁ + ΔH₂  \n(2) H₂S；＜  \n(3) 0.5a；0.5a  \n(4) 减小；不变"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "1e5414894a0e4015c530519530076588",
+    "answers": [
+      "(1)①Na_{2}SiO_{3} ②碱性溶液中Fe^{2+}不易被氧化，且碱性环境减缓了腐蚀速率。\n(2)①Fe + SO_{4}^{2-} → FeS↓ + OH^{-}\n(ii"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "f74e9f90e40d09337749baae2fa2abec",
+    "answers": [
+      "(1) 非线性  \n(2) b  \n(3) 108.5  \n(4) 90"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "43efca1dc3bdfe8a210faeb7f5201627",
+    "answers": [
+      "(1) 保护  \n(2) $\\frac{E}{R_0} + \\frac{r}{R_0}$  \n(3) 1.43；0.50  \n(4) 无"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "7e1187c85a7da0802ad4d81053579b24",
+    "answers": [
+      "(1) 2mgR\n(2) v = √(5gR), d = R\n(3) m_Q = 0.4m\n(4) m_Q = 0.6m"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "c554d07a589c1e5302a73749a5dc43dc",
+    "answers": [
+      "C. f₁ < f₂"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "b1f5b76e6e02fd313349f0f8c95b2e4c",
+    "answers": [
+      "（1）AgI不溶于浓氨水；NH4+、H+\n（2）AgI + Cl2 + 2H+ = AgCl + H2O + I2\n（3）c\n（4）IO3- + 5I- + 6H+ ="
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "bf1d010405507fe0dbca98f0ffb9989d",
+    "answers": [
+      "(1) \\( v = \\frac{qBd}{m} \\)\n\n(2) \\( d_m = \\frac{L}{2} \\)\n\n(3) \\( t = \\frac{\\pi m}{qB} + \\frac{d}{v} \\)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "929be66a6de0df0635ad20befac33bad",
+    "answers": [
+      "(1) $\\sqrt{\\beta \\mu g L}$  \n(2) $v_{j+1} = v_j - 2\\mu gL$  \n(3) $\\beta = 6n^2$"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "1ec313e8ff697e6e7c9c36eda13b9faf",
+    "answers": [
+      "(1) \\(\\sqrt{\\frac{2d}{E}}\\)\n\n(2) \\(q\\sqrt{\\frac{4Ed}{m}}\\)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "83dfb6b8b7c6e8c1f2cf2e7d9205d083",
+    "answers": [
+      "6.05"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "86fc642897b0a58b764fbaa94c0b6245",
+    "answers": [
+      "(1) 1.5J  \n(2) 0N  \n(3) R > 0.4m"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "92effc89248bf4382f05cacddd62e272",
+    "answers": [
+      "(1) η倍；(2) 1/η倍。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "163f371826ffd336db346d757b494c83",
+    "answers": [
+      "(1) 使As_{2}O_{3}熔化，便于分离；(2) SO_{2} + Na_{2}CO_{3} + Na_{2}S = 2Na_{2}S_{2}O_{3} + CO_{2}；(3"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "be32fb2c83306bed105be5650c4daf95",
+    "answers": [
+      "(1) \\( t = \\frac{v_0 \\sin \\theta}{E} \\)\n\n(2) \\( H = \\frac{v_0^2 \\sin 2\\theta}{2E} \\)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "93a4ffee4afdbfa7b7178daffb7210a1",
+    "answers": [
+      "（1）η倍；（2）不变。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "34999ae1d43f101b92b99b018f3aef3d",
+    "answers": [
+      "(1) $\\frac{\\sqrt{3}}{3}mg$  \n(2) $\\frac{4m}{k}$"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "3c0cb2f9bae4e039bda8e0f7cc618709",
+    "answers": [
+      "(1) 4.50  \n(2) 质量的增加量；3.0  \n(3) 1.0；200"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "06099da48509d07807f70c0490f9bf64",
+    "answers": [
+      "(1) \\({ }_{2}^{3}\\mathrm{He} + { }_{13}^{27}\\mathrm{Al} \\rightarrow { }_{13}^{28}\\mathrm{Al} + 2{ }_{1}^{1}\\mathrm{H}\\)\n\n("
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "e9e9072b956ac23c913e70283cc282be",
+    "answers": [
+      "0.457"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "c02f6368aff97461fe845a2d5d6789d0",
+    "answers": [
+      "(1) 2mgR；(2) v=√(2gR)，h=3R/4；(3) m_Q=0.5m；(4) m_Q=0.67m"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "38560e08ef4cea0842cbab1fc46a9199",
+    "answers": [
+      "(1) 3.2×10^5 Pa  \n(2) 7.608×10^4 J"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "ac78f1dcbd2bc97bc62404c5e7175832",
+    "answers": [
+      "不存在"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "ec816285368eec317204263fd262a18f",
+    "answers": [
+      "CuO"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "83eeadb61daf5414af3f1743860b5236",
+    "answers": [
+      "(1) 3d<sup>8</sup>4s<sup>2</sup>  \n(2) SiO<sub>2</sub>；SO<sub>2</sub>+Co<sub>2</sub>O<sub>3</sub>=2CoO+SO"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "ceb968defdaf562f450ee76f08a178d5",
+    "answers": [
+      "（1）加热、搅拌"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "d4d9dea2da279de4e4fda088dbd6df72",
+    "answers": [
+      "(1) \\( F = \\frac{U^2 l}{R_1} \\)\n\n(2) \\( v_m = \\sqrt{\\frac{k x_m}{M}} \\)\n\n(3) \\( W = \\frac{U^2 l x_m}{R_1} + \\frac{1"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "970159010c223d134d9366622e437f05",
+    "answers": [
+      "(1) 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>\n(2) 4c<sup>3</sup>\n(3) ①正向；②＞\n(4) CaF<sub"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "95e8f6cc5ac7c6a0e81cf772ea10d9c5",
+    "answers": [
+      "（1）耳蜗；由正变负；K+外流；单向\n（2）300节拍/分钟；大鼠甜水偏好程度高，情绪愉悦\n（3）右；多巴胺受体相对表达量低"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "d71758f99459ff2b06627fb4d2e790e5",
+    "answers": [
+      "（1）增强；NtPIP基因过量表达促进根细胞有氧呼吸；ATP\n\n（2）丙二酸阻断了E到F的代谢路径\n\n（3）NtPIP基因过量表达株的根细胞呼吸速率较高，为叶片提供更多的有机物\n\n（"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "051bb72fe5433e45cf115ff453050249",
+    "answers": [
+      "(1) 0.700 mm  \n(3) 0.25 m/s  \n(4) \\(\\frac{4}{3}\\pi\\rho D^3g\\left(\\rho_0-\\rho\\right)\\)  \n(5) 减小"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "207e2c8d9a1fd581bfab6f5488713797",
+    "answers": [
+      "(1) D"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "03cca964467c80bb19e7306a6220621a",
+    "answers": [
+      "(1) 2m/s；(2) 4.5m/s，63°"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "e65368b2ff79fe2b34b955c3ae393a0a",
+    "answers": [
+      "叶绿素合成相关基因表达量增加，叶绿素降解相关基因表达量减少。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "5a01c8bd54989a50f87f092faa6d393f",
+    "answers": [
+      "（1）自身免疫病、免疫缺陷病  \n（2）抑制  酶E组蛋白P的表达量高于磷酸化的酶E组  \n（3）酶E  记忆B细胞在再次接触相同抗原时，迅速增殖分化为浆细胞，产生大量抗体"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "4d6feefe720f17ac3a6b9976d20e1f8a",
+    "answers": [
+      "(1) 1.5；(2) [0°, 30°]"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "95836749e8c90f9f552b981e51ceae5c",
+    "answers": [
+      "（1）控制变量法  \n（2）平行  \n（3）需要，调节定滑轮高度，使连接小车的细绳与轨道平面保持平行。  \n（4）n²"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "bb10f5f7465b228da0123ffe100b91c6",
+    "answers": [
+      "乙"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "888924264c62ed8cd9d15214c7683a7c",
+    "answers": [
+      "(1) 卡那霉素；白  \n(2) C；C  \n(3) ① D  \n② 在无抗生素平板上培养，筛选出菌落数最多的培养基。预期结果：筛选出的菌落中大肠杆菌不含质粒1和质粒2。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "42e580db1e999cb1e00b4e7f4618d5f3",
+    "answers": [
+      "(1) 解旋酶；加热变性  \n(2) 引物、dNTP  \n(3) ①和④的作用是：作为对照，验证PCR反应是否正常进行；无扩增产物的原因是：引物对不能与模板结合；扩增出的DNA"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "9df26a8d66c90b57b86a7e03ccde5239",
+    "answers": [
+      "(1) 28J；(2) 3.6s"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "c968a15d35580d376acba9e8693b700c",
+    "answers": [
+      "(1) -2；1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>1</sup>\n(2) 2Al + 3H<sub>"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "a4003ff8f7f718c6f4aeeefe1f66ec89",
+    "answers": [
+      "(1) 三颈烧瓶、温度计  \n(2) 溶液表面有晶体析出  \n(3) 不变蓝  \n(4) 产生气泡、NO<sub>2</sub>气体  \n(5) c  \n(6) 升华法"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "265fa52e52beef92bf1702cf9f441288",
+    "answers": [
+      "(1) C (2) ① Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>Cl ② 红色褪去，溶液变蓝 ③ PO<sub>4</sub><sup>3-</sup>"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "b6f23592e2b1028240667c77965df795",
+    "answers": [
+      "(1) \\(v = \\frac{qU}{mdB_0}\\)\n\n(2) \\(B_1 = \\frac{mvd}{qL}\\), y轴上可能检测到该粒子的范围为 \\([-L, L]\\)\n\n(3) \\(\\eta = 50"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "ed39db55c40f34e17a4e07c7936cece2",
+    "answers": [
+      "B"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "b68714719d068da4237f87eb3f44d342",
+    "answers": [
+      "(1) 8.5×10^4 Pa  \n(2) -7.35 J  \n(3) 136 N"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "b8016c6fd797368a226e0efc6f62ecae",
+    "answers": [
+      "乙同学的方法可以更好地减小误差。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "dfea2db2a230cab6a1b54e33b784d8d9",
+    "answers": [
+      "(1) 0\n(2) v_0/4\n(3) (m v_0^2)/(16n)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "a0b1ffd4189d68b8f62a6c21d77ae1d6",
+    "answers": [
+      "(1) \\( E = B l v \\)\n(2) \\( P = \\frac{B^2 l^2 v^2}{4r} \\)\n(3) \\( x_{\\text{max}} = \\frac{m g r}{B^2 l^2 v} \\)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "c8cb201c514713002970039abe7436a1",
+    "answers": [
+      "（1）2  \n（2）SO4^2-  \n（3）温度升高，反应速率加快；温度过高，过二硫酸根分解，浸出率降低。  \n（4）Zn + Cu^2+ = Zn^2+ + Cu  \n（5）Fe  \n（"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "03721a67ab591aeed62a1042a8e684ad",
+    "answers": [
+      "(1) \\( v_1 = \\frac{v_0}{5} \\)\n\n(2) \\( x_B = \\frac{4l_0}{5} \\)\n\n(3) \\( t_2 = 2t_1 \\)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "82a83258c76c35a179bc1b5f3e7ea08b",
+    "answers": [
+      "（1）交感神经和副交感神经；相反  \n（2）钠离子内流；钾离子；失活  \n（3）测量蛙心在一次心脏搏动中bc段持续的时长。"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "a5aaaf2232dd473fff868bb5b8d7cfdb",
+    "answers": [
+      "抑制"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "b9b1d67dd3e7101681c791c3b1b226a3",
+    "answers": [
+      "(1) F = μmg / (μ + M/R)\n(2) s_min = h / 2\n(3) v = √(2gh)"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "50360725791996770e9e99d62eec09f1",
+    "answers": [
+      "Al(OH)4-"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "4813939f25746335b94dd03cc89518ee",
+    "answers": [
+      "(1) BCD\n(2) [Pt(NH₃)₄]Cl₂\n(3) ①B中P的电负性小于S，给出H⁺趋势相对更大；②(H₂N)₃PS + H₂SO₄ → (H₂"
+    ],
+    "language": "Chinese"
+  },
+  {
+    "question_id": "8e6e6f0f41d15659f3e6b45bac581644",
+    "answers": [
+      "Hrvatska"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "d838c0ea6c4e7a9fc79b69d11f4d5df8",
+    "answers": [
+      "10 kJ"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "1935dfb47ba8d37c5a684759c6064a22",
+    "answers": [
+      "29.1. y = -x + 1\n29.2. 490"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "09a7eabda811ebabf1032bd109a1da5f",
+    "answers": [
+      "28.1. 1476 m²\n28.2. 75 m"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "fbb6b5670d6b0f0f2dc58a1b1ee58c66",
+    "answers": [
+      "Najveće relativno smanjenje: Njemačka i Italija; najmanje relativno smanjenje: Francuska i Mađarska."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "11c9cee0f2a36887894221d83587f821",
+    "answers": [
+      "0.5"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "ba71e2d09c0cbf262acb9dd1fc81a08b",
+    "answers": [
+      "Maksimalno ubrzanje je 0,7 g."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "5532f0a5719f1c000593151e8bbaa61f",
+    "answers": [
+      "Bura, sjeverozapadni"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "1acf4bdc42fc591fc415898279b46fab",
+    "answers": [
+      "42.1. diverzija 42.2. promjena klimatskih uvjeta"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "aef86d412db1915eaf9ed39d404a033b",
+    "answers": [
+      "Mlazni zrakoplovi u 1960-e."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "3ef6df5c8603f91136ebef3ebe6f2e38",
+    "answers": [
+      "51.1. Broj 2 označava proces denitrifikacije."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "3475d0784b5b42afa6b881856c58fa90",
+    "answers": [
+      "2021./22."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "b59a9f28edcc23301c90dba884b1e9cb",
+    "answers": [
+      "41.1. mitohondrij, citoplazma  \n41.2. kisik, glukoza, ugljikov dioksid"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "412060341cb66281f8e0762804fda27c",
+    "answers": [
+      "w = -1 + i"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "65a0cec0d5e86f359e5fb1b0f3641074",
+    "answers": [
+      "15"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "b6ee8c5af10d5846989e0cce565c7767",
+    "answers": [
+      "3"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "b360b1e6d0bac6049ebe7a8092f09f7d",
+    "answers": [
+      "voda u podzemlju"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "69c95725e82d4b928cb569e74e8606bb",
+    "answers": [
+      "44.1. T-limfociti su modificirani postupkom označenim brojem 2 na slici. Na koji način se postiže takvo modificiranje T-limfocita? \n- T-limfociti su modificirani"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "a7ad03ab8ed87a9d1bcebb928831e421",
+    "answers": [
+      "Rijeka Velebita."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "ecdeecd02f84e77a7d6f881e4a060faa",
+    "answers": [
+      "Zvučno onečišćenje"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "a6b7a82b0a755a8bd5262a569df81a2a",
+    "answers": [
+      "Razmak između susjednih maksimuma je 14 mm, a valna duljina lasera je 600 nm."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "f4da12aafb480893493fb79f43c2484a",
+    "answers": [
+      "Kulturno-genetski tipovi gradova su: helenistički i rimski. Osnovna razlika u strukturi njihovih ulica je u rasporedu i organizaciji prostora."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "5cb0742542d81b2606341f30f265ec15",
+    "answers": [
+      "Podizanje razine mora i utjecaj na gradove."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "f1078ce1eff02d06cd497a82651ac1bc",
+    "answers": [
+      "Reljef utječe na naseljenost tako što je gustoća naseljenosti veća u krajevima s manjim reljefom i manjim visinama."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "84cc8a8b6e93699bc5ffe2ae505e19ff",
+    "answers": [
+      "42.1. Deforestacija je veća nego širenje šuma u svim razdobljima od 1990. do 2020. godine.\n42.2. Deforestacija smanjuje raznolikost vrsta pot"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "ac1e6e017bade6fbfaacd7b47e59a5af",
+    "answers": [
+      "17.3 kg"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "47bc976869914f3cd15a132295ec331b",
+    "answers": [
+      "Petrovačka greda"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "4314e102ecc4efe1b3d26ff83dcf6c07",
+    "answers": [
+      "Nedostatak javnih infrastruktura i usluga."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "a0693c1fedbbc4fa3e5175f884326aa4",
+    "answers": [
+      "48.1. Komandni centar 48.2. Automatski proces 48.3. Metabolizam"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "53e6624792892f80ed8b379f4a3d8f10",
+    "answers": [
+      "Ruska Federacija i SAD"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "55cbc9e74dc1090d7079c6a117f6a18d",
+    "answers": [
+      "46.1. Ribosom\n46.2. tRNA\n46.3. 5' GUGCAUGUUA 3'"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "ca2e37e5f4ad525481735df4be8daaf7",
+    "answers": [
+      "Naprijed"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "bcbcf1f3dc8daf83be62775a06118d1f",
+    "answers": [
+      "47.1. Glicoliza\n\n47.2. Stanica 1: A\nStanica 2: H\nStanica 3: K"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "830fd5642086eac96525c9cf4d6f38c2",
+    "answers": [
+      "Susedne grane"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "0b5188c4c76c5edea2823011e4414c95",
+    "answers": [
+      "Nizozemska, Danska, Švedska"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "42bd4d6af89251616af8caa430e0c329",
+    "answers": [
+      "Područni centar 1"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "6b5393ee34ef8d97a5beb8c1385a418d",
+    "answers": [
+      "U mjesecima II., III., IV., V., VI., VII., VIII., IX., X., XI., XII. zabilježen je znatan porast količine padalina 2023. u odnosu na 2022. godinu"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "131e59ff84dce755c4f51b2dc5833082",
+    "answers": [
+      "Ks(AB) = 1.5 × 10^-3"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "edfae9be495f8c006144fa09cea7f863",
+    "answers": [
+      "01010011"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "2f64b315fcf3d081e67f628f24d5cc55",
+    "answers": [
+      "Kina je dominantna u industrijskoj proizvodnji G7 zemalja."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "e5c8cfc581e996e79359283ebc7875ec",
+    "answers": [
+      "4 - 1 - 2 - 3"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "8e3acf4e4ff860700e41a56e7b8f6faf",
+    "answers": [
+      "Kulturne regije Hrvatske"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "f68d6753119994cc49aed903021f6c58",
+    "answers": [
+      "3 > 1 > 2"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "34aef4b9250e9ea2592c1423bb9f94fd",
+    "answers": [
+      "Difuzija odgovornosti"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "033012ed0f99cf58271b0c03e7617b7e",
+    "answers": [
+      "Srbija i Mađarska"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "749b07899b6772f9b86d3a2ad43d0b99",
+    "answers": [
+      "7.1. Kp = 0,4 kPa⁻²\n\n7.2. U 5 minutama dolazi do uspostavljanja kemijске ravnoteže.\n\n7.3. v = 0,0067 kPa/s"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "d0668f621b8328895fbefe33b4b9ae64",
+    "answers": [
+      "31.1. 121 cm\n31.2. 120 cm"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "b8513e82e202bd95425b1ebffa020182",
+    "answers": [
+      "Ovo je krater nastao erozijom i pripada genetskom tipu reljefa kras."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "17a100e377464aa6df27577d45b2570f",
+    "answers": [
+      "Pri 70 °C je temperaturi maseni udio soli u zasićenoj otopini 37,5 %."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "6022213134cb63d34ac463b2c7ed555b",
+    "answers": [
+      "Unutarnja energija plina u točki C je 15 kJ."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "932724d5b2e1f49e41fb643bff40b65e",
+    "answers": [
+      "12.1. Alkoholna skupina"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "015dbe60a786473d1a11b02f881db692",
+    "answers": [
+      "Košćelj"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "aeacb4bbebcb30ff4fea283bc99265e5",
+    "answers": [
+      "47.1. Proizvodnja (producicija) ekosustava prikazuje razina označena brojem 1 na slici.\n\n47.2. Biomasa proizvođača na slici označenoj slovom A"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "6c9b705e5839c7ca4a7c0e83bfdb0ed2",
+    "answers": [
+      "36.1. 2\n36.2. √5"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "81a9e0ca62ffc4bab369d64b8507e42f",
+    "answers": [
+      "45.1. C - Morski sisavci, D - Krokodili  \n45.2. B - Morska kornjača izmjenjuje plinove u plućima, E - Žaba izmjenjuje plinove u"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "e9dfc90cfe6a490ec8899c76126dab1c",
+    "answers": [
+      "120 cm"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "8dac211193610e4dd3664f018c0504e7",
+    "answers": [
+      "120"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "87669f61cc8bf1113117239e6f390d48",
+    "answers": [
+      "47.1. Meiotička dijagona\n\n47.2. Haploizacija i disociacija\n\n47.3. U stanicama organa se događa meiotička dijagona, u kojoj se može dovesti"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "c31fd4dd8b3106bb0110209e7a36f82d",
+    "answers": [
+      "Genetski tip reljefa utječe na naseljenost zaokruženih područja tako što je više naseljenosti u ravnicama i manje u gorju."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "4bde439bc3316b75367b7e33285b1a15",
+    "answers": [
+      "Križanje"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "9d4422c2fd8a7ba8a28635ba21445ec3",
+    "answers": [
+      "Tropi"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "ed5274e84d16477a767a30e309b1b958",
+    "answers": [
+      "1.1. Allyl alcohol\n1.2. NaClO"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "3c859a139be8025b8d203e2b629ce149",
+    "answers": [
+      "Nova mapa"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "9a0ba65ec04fda6cb748cc1240b313e1",
+    "answers": [
+      "0,5 m"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "988943e647271b8c3e091d17086f4690",
+    "answers": [
+      "9.1. NaOH + HCl → NaCl + H2O\n\n9.2. 0.05 M"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "d186f7d397036462e79e3de665371a21",
+    "answers": [
+      "Primjer pozitivnoga utjecaja: snabdijevanje električnom energijom\n\nPrimjer negativnoga utjecaja: erozija talijana"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "73b9149806327e98dee555a1a0c581e5",
+    "answers": [
+      "Nema takve države."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "50099b28ba62f414cc4fbd1c2a68e6ac",
+    "answers": [
+      "Gobi"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "90b7505707e3e8e288320275544a66f8",
+    "answers": [
+      "12 μN"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "ccb2ba2d32d9c074cdba9a08c42090a6",
+    "answers": [
+      "Kontinentski rub je šelf."
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "a45d4793d81ab404ee619619ee9043da",
+    "answers": [
+      "174 kPa"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "11afef306c5b53e20f6ed7cc09878581",
+    "answers": [
+      "54.1. XXY"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "defba3f5df00122b815c3038766ed8bf",
+    "answers": [
+      "10 A"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "c72158028f0c8e7d2d21c1695a0bb1d2",
+    "answers": [
+      "Pametna ulična rasvjeta, pametne zgrade, pametna energija"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "8b61abd5241d0d65cca31611dab52afb",
+    "answers": [
+      "dovoljan (2)"
+    ],
+    "language": "Croatian"
+  },
+  {
+    "question_id": "b7cbcfc0515468cec6bf49fee43e7c3d",
+    "answers": [
+      "(a) 3 N  \n(b)(i) 7.5 N  \n(b)(ii) 120 cm"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "49004cea686964940bf81302865c29e0",
+    "answers": [
+      "gamma rays, infra-red, visible light"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "2087436a35fbc45ef7bb5908ecb430ff",
+    "answers": [
+      "(a) A: Cu, B: Cu(NO3)2, C: NO, D: Cu(OH)2, E: CuO, F: CuCl2  \n(b) Pass the gas through a solution of Ba(OH)2; if white precipitate forms, the gas is NO."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "c98130c7aeffeda259e52581d2a14ee2",
+    "answers": [
+      "(i) \\( y = -\\frac{1}{2}x + 4 \\)\n(ii) \\( E(8, 5), G(0, 4) \\)\n(iii) \\( 20 \\)"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "afc8b205cf2cf1bbc743163a283147a1",
+    "answers": [
+      "θ = -π/3; sin 2θ + tan θ = -1 - √3"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "ab3f6d73a11e439dc24a0c5c93775f36",
+    "answers": [
+      "(a) 300 cm³  \n(b) 2.4 cm"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "9d64f4571afd9ccf520f02ddcc1dac6e",
+    "answers": [
+      "x > 1"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "367bcc419f6c43ab664634831aad4dad",
+    "answers": [
+      "(a) 250° (b) 145°"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "cbf63c50dd23fed1a9c3feb30f73593a",
+    "answers": [
+      "(a) Alloys have a different arrangement of atoms compared to pure metals, providing better mechanical properties and corrosion resistance.\n\n(b) Advantage: Recycling reduces waste. Disadvantage: Some materials may be difficult to separate and recycle efficiently."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "824fd2611b01e601cf9c635c5fe18fd8",
+    "answers": [
+      "(a) A  \n(b) F  \n(c) C  \n(d) E"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "696205e94f38feb0b32fcbdfe956c8ec",
+    "answers": [
+      "(a) sulfuric acid, sodium sulfate; potassium hydroxide, silver chloride; Ca₃(PO₄)₂, calcium phosphate"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "c4025d46f3f6f24e955e99ba38f6a39f",
+    "answers": [
+      "(a) The transfer of pollen from the anther to the stigma of a flower. (ii) Covering the stamens before they mature. (b) Size and shape for efficient wind or insect pollination. (c) Ensures cross-pollination, increasing genetic diversity."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "d0f8e205f9ec4429778ba23fc9adb80b",
+    "answers": [
+      "(a) A: Cu; B: HCl; C: Cu(OH)₂; D: CO₂; E: BaCO₃; F: Cu(OH)₂"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "6d28e7c0cf4b998b8d91e953b5ce4789",
+    "answers": [
+      "(i) \\( y = -18x + 45 \\)\n(ii) \\( \\frac{27}{2} \\)"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "a0a9b9284ec52b8da6da212841531539",
+    "answers": [
+      "(a) Cell X: Guard cell; Function: Controls stomatal opening and closing.\n(b) (i) Cell Y: Epidermal cell.\n(ii) Function: Protects the leaf from pathogens and excessive water loss.\n(c) The size of Z expands during the daytime, increasing the rate of photosynthesis by allowing"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "8349829f7a24a12fcde5e71d7d4083d7",
+    "answers": [
+      "15 kg"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "5dc96cd9b6405b5e3e99c47e1a6dcb77",
+    "answers": [
+      "(i) A(0, 3)\n(ii) Area = 9/2"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "2bab3e232cc983877770908c37d840ec",
+    "answers": [
+      "(a) Solubility and adsorption.\n\n(b) The black dye consists of multiple components that have different solubilities and adsorption properties.\n\n(c) Ink might dissolve in the solvent, affecting the chromatography results."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "9092da8b786178a749161b4c4cb6b515",
+    "answers": [
+      "(a) \\( y = -\\frac{5}{4}(x-2)^2 + 10 \\)\n\n(b) \\( x = 2 + 2\\sqrt{\\frac{4}{5}} \\)"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "ac0f5ef5ff2910efc73b8052720ecfaf",
+    "answers": [
+      "(a) (i) Filter paper; (ii) Pipette; (iii) Analytical balance; (iv) Gas delivery tube  \n(b) The solvent particles evaporate and rise as a vapor, spreading out on the chromatography paper due to capillary action."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "5c8b05934db4ab1f435edd02b6a42a99",
+    "answers": [
+      "solid, ion, mixture"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "1b2b5505d11373020e012698f2281e1f",
+    "answers": [
+      "5.0 N at 67.5°"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "65588b7d5837987f8a9e0e3910a40446",
+    "answers": [
+      "(i) A(-8, 0), B(0, -4); (ii) tan θ = 1/2"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "072c6637c4e5da1713bc0c8b20b3e713",
+    "answers": [
+      "(i) \\( y' = -2(x-2)^3 \\)\n(ii) Equation of tangent at B: \\( y = 16 - 8x \\); Coordinates of A: \\( (4, 16) \\)\n(iii) Area of shaded region: \\( 32 \\)"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "ad41cdd52a95e667afdc096bbd105bfc",
+    "answers": [
+      "(i) \\( f'(x) = 3ax^2 + 2bx + 24 \\)\n(ii) \\( a = -1 \\), \\( b = 6 \\)\n(iii) \\( p = 2 \\); \\( k > 28 \\)\n(iv) \\( -24 \\"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "f5a0578276ef669daeb0f7b7e9446f43",
+    "answers": [
+      "resultant force = 2.5 N  \nangle = 30°"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "e06e228437c9406da1462cf2cb574b99",
+    "answers": [
+      "1.002 g/cm³"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "5b9f8fdf53a05d6a7ed509781df3644b",
+    "answers": [
+      "360°"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "16b3e8437f03f8cf3b7e2c255d22aa16",
+    "answers": [
+      "(i) \\(a = 50\\), \\(b = \\frac{\\pi}{30}\\)\n(ii) 40 minutes"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "9c7c433ca8bbcf6b33b750c273e3e8ca",
+    "answers": [
+      "24.5 cm²"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "43eedb9e63599307bb49080c03bdc91c",
+    "answers": [
+      "(a) Diagram 4  \n(b) Diagram 1  \n(c) Diagram 3"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "109f7fddeb3712e15f3e3e33971a0fc8",
+    "answers": [
+      "Liver; portal vein; hepatic vein; inferior vena cava"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "a4ddc36f1f8116c44dd89f12f32bcf22",
+    "answers": [
+      "(i) B(6, 0)\n(ii) Area = 8"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "af75fe1333f33558d04d6779281837d2",
+    "answers": [
+      "Distillation"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "becd0123a484ceb69344cc486fb0a892",
+    "answers": [
+      "(i) k = 2  \n(ii) a = -1  \n(iii) VR² = 50"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "bcc8d5094717ee1409f997c86c4e71c8",
+    "answers": [
+      "(i) A(3, 4), B(6, 0)\n(ii) (2, 5), (4, 1)\n(iii) m > 2 or m < -2"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "f321813cb1699dd93d09a84d346355e8",
+    "answers": [
+      "(a) \\( y = \\frac{3}{5}x + 3 \\)\n(b) 42"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "6f3c2e6e106dfbb63abf0f2c7d69b832",
+    "answers": [
+      "(a) (i) A, B, E  \n(ii) A  \n(iii) B  \n(b) Aluminum oxide  \n(c) Sodium hydroxide"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "0496417a8944157d28e637a726aff0e1",
+    "answers": [
+      "Female; presence of two X chromosomes"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "7c3b85c47495514ab707abd5d4977ff4",
+    "answers": [
+      "A: element, helium  \nB: compound, ammonia  \nC: mixture, air"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "25215fc6bfbce8d1d83b2412e36fafa6",
+    "answers": [
+      "(a) Air resistance  \n(b) No  \n(c) Decreasing"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "cbed951c13b6a8f1589e1e76515d2b6d",
+    "answers": [
+      "C"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "23fbc47733a6021824904b1d394a6902",
+    "answers": [
+      "3(a) (i) x = [0, π/2]  \n(ii) x = [0, 2π]  \n(iii) x = (-π/2, π/2)  \n3(b) (i) a = 4, b = 1, c = 2"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "ac6b0652f95e0b6630d5691c54fac330",
+    "answers": [
+      "(a) Atom Z belongs to Group 17 (Halogens)."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "ef392f3c4f83edf2577df2ace1048eca",
+    "answers": [
+      "speed = 15 m/s"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "86159e9da55693ccb1a55f3465754f86",
+    "answers": [
+      "x = 3"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "75136e6af406c78910b4413e290b0196",
+    "answers": [
+      "Table 3.1\n\n| pollutant | source | problem |\n|-----------|--------|---------|\n| oxides of nitrogen | lightning activity | acid rain |\n| carbon monoxide | vehicle exhaust, industrial processes | air pollution, respiratory issues |"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "6ee702458a79278986f88a8a95521eb5",
+    "answers": [
+      "(a) 281° (b) 30°"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "3e421dcdc8a5166e83dd38b83ae32caa",
+    "answers": [
+      "(a) Oxygen  \n(b) 60  \n(c) Nitrogen and carbon dioxide"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "76731d848ae8f652a24c24d5f09aa985",
+    "answers": [
+      "(a) (i) V; (ii) Q; (iii) S; (iv) R and U  \n(b) Particle T is an isotope of fluorine. It has 9 protons and 10 neutrons, making it fluorine-19."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "1ae05a3de23bc065ff5f158e89f16198",
+    "answers": [
+      "Diagram 2"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "dc673c4e88c302f9bad6cf5c700ed4a3",
+    "answers": [
+      "(a) False; W is more metallic than Z.\n(b) True; V is less reactive than W.\n(c) False; V has a higher melting point than W.\n(d) False; X does not have more electron shells than Y."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "8773f09afdfa6ea197f6a59b7bd7e087",
+    "answers": [
+      "(a) F  \n(b) H and I  \n(c) J and K  \n(d) H and I  \n(e) G"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "7a0cee7694c7f74ffbce667dc7ef1ea8",
+    "answers": [
+      "(a) J  \n(b) G  \n(c)(i) ionic  \n(c)(ii) Substance H has a high melting point and does not conduct electricity as a solid but does when molten, indicating it is likely an ionic compound."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "b7901a9a20652824da659c4fa30a8481",
+    "answers": [
+      "(a) 0.75 A; 1.5 A  \n(b) 0.75 A; 0 A"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "6176637f0c6f282e4a3fb910b971facc",
+    "answers": [
+      "(a) n(W) = 2\n(b) {∅, {0}, {∅}, {0, ∅}}\n(c) A ∪ B"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "48d442124beb5f51135a2dd9f9a390cf",
+    "answers": [
+      "0.6"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "8345e6c9038757f0271d61bf51b96f40",
+    "answers": [
+      "(a) CO; Causes respiratory issues.\n(b) NO and O2\n(c) O2 and CO2\n(d) SO2 and NO2"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "02297bbbfbb172c4907fc3a239884e45",
+    "answers": [
+      "(i) D (ii) B (iii) C (iv) A (v) F"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "c2566c4de92f867b9dc0f8c867a7b897",
+    "answers": [
+      "1200 N"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "8b5ae1c924722f252f94d21b9d0011e2",
+    "answers": [
+      "(a) (i) The number of protons and electrons are equal.\n(ii) They have the same number of protons.\n(iii) They have different numbers of neutrons.\n\n(b) (i) 2, 8, 5\n(ii) Non-metal; it has a full outer shell and non"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "84b106d6c3c878b6d05a5a4bdc4cf76c",
+    "answers": [
+      "600"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "6cc90780fa74940fb77d442419a035bc",
+    "answers": [
+      "The set of values for x where y is increasing is (1, 5)."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "bc5c77bf4209d6f39326a978b8d379ab",
+    "answers": [
+      "(4, 1)"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "804bc45054591fde38837b20900cdf79",
+    "answers": [
+      "(i) \\(\\frac{EC}{AB} = \\frac{1}{4}\\)\n(ii) The length of \\(EC\\) is \\(2 + \\sqrt{5}\\) cm."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "da2a32a53de45099adfa40ed1980d791",
+    "answers": [
+      "(a) A: NH₄NO₃, B: O₂, C: NO₂, D: Al(OH)₃, E: NH₃  \n(b) Al³⁺ + 3OH⁻ → Al(OH)₃↓"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "acfe646ad3bced085de8583f60121e34",
+    "answers": [
+      "(a) They have the same outermost electron configuration.\n(b) Lithium: lithium hydroxide and hydrogen gas.\n(c) Rubidium.\n(d) It would be more reactive than lithium, sodium, and potassium."
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "6027ad6ef7a470a3c2a313f9788a7777",
+    "answers": [
+      "(i) -3  \n(ii) (4, 0)  \n(iii) 12"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "4383f92d6be42c96f644063a49cdaef2",
+    "answers": [
+      "B, A, F, D"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "c4e1562d1ec5fad6fcc723b560c58687",
+    "answers": [
+      "(a) Test tubes A and C  \n(b) Test tube D"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "b18f96bb67d2e1e94fee6a0d30a41397",
+    "answers": [
+      "(a) 0.0015 C\n(b) 4.5 J"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "4a74e4fb0b5645411f6ef0d31b05a534",
+    "answers": [
+      "(a) 9\n(b) 150"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "1dfcb3dd23e97c1b6b218ef54c30ca92",
+    "answers": [
+      "(a) X: AgNO₃, Y: Cu(OH)₂, Z: Cu(NO₃)₂  \n(b) Cu(NO₃)₂ + 2NaOH → Cu(OH)₂↓ + 2NaNO₃"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "dbf0dc5a86ee8c8ca8fdc5e7a77e0e84",
+    "answers": [
+      "(i) Positive  \n(ii) Negative  \n(iii) Zero"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "d55d8f1334b41212f28f8cbf17c89215",
+    "answers": [
+      "(a) P: CuO, Q: HCl, R: CuCl2, S: Cu(OH)2  \n(b) Cu²⁺ + 2Ag⁺ → 2Ag + Cu²⁺"
+    ],
+    "language": "English"
+  },
+  {
+    "question_id": "1c5a8d99ff1d80b3bb61de359f4c505a",
+    "answers": [
+      "La duplicazione dei cromosomi durante la fase S."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "06c7d87c436c098bbf0c674af6ccce2c",
+    "answers": [
+      "S. patens"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "5ff8a3d31d1c8a77fb21a248723c5f8d",
+    "answers": [
+      "46.1. Nella cellula eucariota, il processo avviene nel citoplasma.\n\n46.2. La molecola indicata con la lettera B è l'ribosoma.\n\n46.3. La sequenza di nucleotidi nel mRNA che determina"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "77712595d91da5e3712455bb0cd3cb1a",
+    "answers": [
+      "Respirazione cellulare"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "66c680893b97fd0a877f218c8804f17e",
+    "answers": [
+      "48.1. Cellula ospite\n\n48.2. Inserimento del genoma nel nucleo cellulare\n\n48.3. La proteina capsomero è necessaria per la costruzione della capsula virale."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "e574f36a68cc8bd60457ffa13e9fe7a5",
+    "answers": [
+      "51.1. 2\n\n51.2. NO3- e NO2-"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "0417ffce982f7fc9f08c5d7afbebb99e",
+    "answers": [
+      "L / D\n\nProdotti: CO2, H2O, ATP"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "cb4e9fcc3cc590451f82cf37b3319f0e",
+    "answers": [
+      "41.1. B, Fallopiano\n\n41.2. L'ingrossamento del prostatite rende difficile la minzione perché l'organo si trova sulla via dell'urina e l'ingrandimento può comprimere il flusso urinario."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "d2dc485cfd012f95c3c53bd1bd9cb33a",
+    "answers": [
+      "54.1. XXY"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "29d10c297495522911c997bdb48b6dab",
+    "answers": [
+      "L'energia interna del gas nel punto C è 10 kJ."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "828fc2667ad6a40f258458acffdadf04",
+    "answers": [
+      "L'induttanza della bobina è 0.2 H."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "a2dcee847dac934076286206cc4b51de",
+    "answers": [
+      "0,7 g"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "d075ea1625a703c0f0450b8dfdeb80bb",
+    "answers": [
+      "Scarpata continentale"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "6689870686f3de70a2ac08b550ba9172",
+    "answers": [
+      "Il fiume è il Kanal sv. Odorika."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "f6c242d7f9fa99ca2db03fe6fb86eca2",
+    "answers": [
+      "Centro regionale debole di Bologna"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "2f52e9a51dc1993fc80fdf581f23e6f3",
+    "answers": [
+      "Lituania, Lettonia, Romania"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "bbc273c6d8329a76820735f77ede9d6e",
+    "answers": [
+      "5.1. 6.02 x 10^23\n\n5.2. 4"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "e798ba616b7322244b5d1949c36cc453",
+    "answers": [
+      "6.1. Cu(NO₃)₂ + H₂O + NO₂↑"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "607c709a38107a0674e3697be5237d10",
+    "answers": [
+      "7.1. Kp = 0.25 kPa⁻²\n\n7.2. 4 minuti\n\n7.3. v = 0.0083 mol/(L·s)"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "b8fdd84778fe37e4819991acd3e4b15d",
+    "answers": [
+      "8.1. Il metallo dal quale è formato il polo positivo della cella galvanica descritta se la differenza dei potenziali standard dell'elettrodo a 25 °C è 1,215 V? Risposta: X(s)"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "cc608b7b35f0752064ddd910cdea5a2f",
+    "answers": [
+      "1.1. 2-propen-1-ol\n1.2. NaClO"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "be18c3501db6e7ee0d7aa45dc9d01712",
+    "answers": [
+      "9.1. CH3COOH + NaOH → CH3COONa + H2O\n\n9.2. c(H2O+) = 0.05 M"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "cd135bd77d6676cc8755c7c20efae92d",
+    "answers": [
+      "12.1. Gruppo funzionale: ossidrile (OH)"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "d9ce1f5f4fea26237c053c8fc1c3a682",
+    "answers": [
+      "33.1. A(π/4)\n33.2. B = 1"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "99c51643349702afb598e61a4429de92",
+    "answers": [
+      "35.1. La lunghezza della diagonale AC è 12 cm.\n\n35.2. L'ampiezza dell'angolo α è 72°."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "d84bc6ff8eafcb0aef2b5f5cb93f63fb",
+    "answers": [
+      "molto buono (4)"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "dc143b6d7074142bce0e5d16ba03515d",
+    "answers": [
+      "2510 t"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "4993766021cff47ba0d7d3665c0e3e17",
+    "answers": [
+      "27.1. x = 10 cm  \n27.2. y = 13 cm"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "7b3325443d962e174c8bb62d39e8f9ff",
+    "answers": [
+      "29.1. y = -x + 1\n29.2. 538.57"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "33e56f899a92282fd0bf05f6638c862f",
+    "answers": [
+      "17.3 kg"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "8428ac7946cd261aa4a46b2d42b79e1d",
+    "answers": [
+      "27.1. y = -5\n27.2. α = 45°"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "5a3bad1bbc4868c76b66db5cb2620894",
+    "answers": [
+      "28.1. 1476 m²\n\n28.2. 75 m"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "dea3db19f5852be9f81c5c1ed8d67091",
+    "answers": [
+      "41.1. La rana\n\n41.2. LA RANA"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "c5e990b85d3a3b0b4144ec944cb2cfab",
+    "answers": [
+      "A, C, F"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "47d006acda38ab7783e50ff19b405033",
+    "answers": [
+      "43.1. Riserva naturale, Riserva naturale di Biokovo\n43.2. Alberi di mare"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "05c73cee686b7445b40b7fd29acf65a4",
+    "answers": [
+      "44.1. La modifica dei linfociti T avviene tramite l'ingresso di una nuova proteina A.\n\n44.2. La struttura A permette la distruzione delle cellule maligne tumorali grazie alla sua capacità di riconoscere"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "3310485069a1227b6e857589ecdf3ea0",
+    "answers": [
+      "47.1. Produzione primaria\n\n47.2. 2,5 volte\n\n47.3. B\nLettera: B\nSpiegazione: Durante l'inverno, quando la superficie del lago è gelata, il primo livello trofico (prod"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "b3ef330343ebaa35fddc11afe231ca6d",
+    "answers": [
+      "49.1. A, B, C, D, E, F, G, H  \n49.2. D, Stomaco"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "b4a219697ef073af94eecfa399e36e45",
+    "answers": [
+      "B"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "a74eb92ab21d42289ba6f56fb8c5082e",
+    "answers": [
+      "52.1. Stadi aploidi: F  \nStadi diploidi: A, B, C, D, E, F"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "14e5921b86ea320ba13492778ef2a823",
+    "answers": [
+      "Crossing"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "0a52cdeb4e8f315ef69de7ec0ef803b7",
+    "answers": [
+      "L'età e il sesso."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "68d94599afb2a45ee6268249ae748b5a",
+    "answers": [
+      "55.1. Evoluzione convergente\n\n55.2. Becco e proboscide\n\n55.3. Coevoluzione"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "0c71f3943e205740a64b38312b8e1e03",
+    "answers": [
+      "3"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "294a6119f90197ef3938756b65977311",
+    "answers": [
+      "174 kPa"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "7a574be3ef89596c6ffc74cbfcd54669",
+    "answers": [
+      "180 N/m"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "3805db5fcfeff384528e70591b039aad",
+    "answers": [
+      "Befana"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "84a54596f960110255cee573f57e6813",
+    "answers": [
+      "Formazione di un cuspide e erosione di scolpitura."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "d5c26e31f49931a3e3ae4d62e517ad19",
+    "answers": [
+      "Primavera e Autunno"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "c3bb4116997e0d913322d34eb2feff6d",
+    "answers": [
+      "Bora, da nord-est"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "f1070c9938466e1ee43c6d4b58da4bc8",
+    "answers": [
+      "Questi gas contribuiscono all'effetto serra perché sono温室气体."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "6fe9d5074618cb62bb5e466ea69e0d03",
+    "answers": [
+      "Il sistema di protezione dalle inondazioni della Città di Zagabria comprende dighe e zone verdi lungo il fiume."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "a1dd45601e03f1abb0007f735d497819",
+    "answers": [
+      "1 - 2 - 3 - 4"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "8f8fe78bd5415ff846bf787e1cec750c",
+    "answers": [
+      "Tropicale"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "a8c48cf057986b9e452b31779af52a47",
+    "answers": [
+      "Zagreb, Osijek, Split"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "5c32bd152d21d2a83d58637ec29dcf44",
+    "answers": [
+      "Città mediterranea"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "d79360049f2de8456fa29aafad5943bf",
+    "answers": [
+      "Bulgaria"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "0908aca1727d8827560625bf43f6f356",
+    "answers": [
+      "Modalità d'impiego del tempo libero: socializzazione con gli amici\n\nMotivo: Le persone in area urbana hanno più opportunità di socializzare in luoghi pubblici e organizzati rispetto a quelle in area rurale."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "a2cf26864c71f617fece9ccbf38b5f78",
+    "answers": [
+      "601 467"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "4b0871b6098c2e74c868e5cd86a40782",
+    "answers": [
+      "Esempio di influenza positiva: produzione di energia idroelettrica sostenibile.\nEsempio di influenza negativa: alterazione del corso naturale del fiume."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "2b3a771c168bd0487fe86cc9b4084812",
+    "answers": [
+      "Conseguenza positiva: riduzione degli incidenti stradali.\nConseguenza negativa: potenziale dipendenza dal sistema di guida autonomo."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "db4aa01cb29f03f37aef0c6624f803f7",
+    "answers": [
+      "Sistema di depurazione a fossa secca"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "6793e751f3697b96e5697e60cf69a5f8",
+    "answers": [
+      "Esempio di Stato con alto indice di sviluppo umano: Giappone  \nEsempio di Stato con basso indice di sviluppo umano dell'Asia Sudoccidentale: Pakistan  \nEsempio di Stato con basso indice di svil"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "b5dca030cb0f05d9dc3ba1eb87ed64e8",
+    "answers": [
+      "I Tuareg sono un popolo nomade del deserto che utilizzano i cammelli per il trasporto e la sopravvivenza."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "8ac845928746a5f656f77cccfff7968f",
+    "answers": [
+      "01010010"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "9530d17b44a4fb8ebefd7c5f910e5923",
+    "answers": [
+      "La cartella \"Fizika\" va creata con l'icona \"Nuova cartella\"."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "15529e4e3782b3687a6278a0c9646ad6",
+    "answers": [
+      "36.1. 2-Pentanone  \n36.2. CoCl₂"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "9a3db02838de0647da8798b40f6d8040",
+    "answers": [
+      "Ks(AB) = 1.5 × 10^-3"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "ab4ffd6fdc4dd1da47012ae4d2a77a2a",
+    "answers": [
+      "44.1. CH₃-CH₂-CH₂-CH₃\n44.2. CH₃-CH₂-COOH\n44.3. Riduzione\n44.4. +2"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "f1e75e6fc4a115e738bfd807194cde74",
+    "answers": [
+      "15 giorni"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "73a0b8287a068f497b0764c88d211eaf",
+    "answers": [
+      "36.1. 2\n36.2. √5"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "6a103cf50f4f0cd8531cf355da725988",
+    "answers": [
+      "2, 3, 4, 5"
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "a90e5a50a9c12882bcdc7c0abde7fe5f",
+    "answers": [
+      "La fase della memoria determinante per la soluzione dell'esercizio proposto è l'analisi e la comparazione delle figure."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "ad2e5c84489e559e8bb749d85304de0d",
+    "answers": [
+      "Il fenomeno è chiamato \"diffusione della responsabilità\"."
+    ],
+    "language": "Italian"
+  },
+  {
+    "question_id": "465c8940f6480f304dd2282347cbdeb4",
+    "answers": [
+      "42.1. Еволуција 42.2. Промена у клими или структури хране"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "33df0c6992f9c5e879870beba247a958",
+    "answers": [
+      "48.1. Сензорни нервни фасети\n\n48.2. Механичка стимулација\n\n48.3. Митохондрије"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "dbb445bf058c8486c0c093c3d61c86b6",
+    "answers": [
+      "54.1. XXY"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "2791ce898a5161f7f70c9d426ff9e628",
+    "answers": [
+      "30.1. 2"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "42a94e2e188c9aa9b558f9c05d3a911e",
+    "answers": [
+      "12 kJ"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "4a71c2ade5ba133c852108f87cf1ed7d",
+    "answers": [
+      "0.2 H"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "3d1cff59224ce3623ff9cb0449ed0cd6",
+    "answers": [
+      "140 μm"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "fb8800d782c14b496e6ee4dc074dc0e6",
+    "answers": [
+      "Кошутница"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "571d8675dc6ab48001eb16f52ee7786b",
+    "answers": [
+      "Приликом глобалног загревања се повећава степен морске ледене покривености у Арктику."
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "cd7dd34e58f04af5f647d454c7bf2d1c",
+    "answers": [
+      "Цетина"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "9125cdb595ffef0ba144f186e44224e9",
+    "answers": [
+      "Хрватска"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "d057b9b0aed0259ab83b43291774b238",
+    "answers": [
+      "Слаба производна способност земљишта и неповољне климатске услове."
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "8cc72596ab243eb1ea03150e6474ecca",
+    "answers": [
+      "m(Cu) = 0.13 g"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "628628af5a33329151e522913e090838",
+    "answers": [
+      "5.1. 24\n5.2. 2"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "79355ee944c1eebf2192242043b30b8a",
+    "answers": [
+      "Aluminum"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "eb143acee3e1b76e440d74afe86cb4e3",
+    "answers": [
+      "1.1. 2-гидрокси-1-пропен\n1.2. NaClO"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "6e5958b8e72dbf0e119c88d30a7ecee9",
+    "answers": [
+      "t = 60°C"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "beeec33d61a4e128b5d5d509afcd6909",
+    "answers": [
+      "33.1. B\n33.2. 1"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "80c224c2ca557fbcf2b646902ba41472",
+    "answers": [
+      "35.1. 12 cm\n35.2. α = 72°"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "ee556ee93f7b358461db860f58a58222",
+    "answers": [
+      "w = -1 + i"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "a7752ff13429355cb7f45e45ee4bd6fb",
+    "answers": [
+      "29.1. y = -x + 1\n29.2. 753.6 cm²"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "be795e202102983fc32c8ea5fb393b79",
+    "answers": [
+      "26.1. a = -1\n26.2. Slika: (-∞; 0]"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "37b37a560e4457b9e0b7460f73765b2c",
+    "answers": [
+      "28.1. 1476 m²\n28.2. 75 m"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "fe3d975880da69dd30c8072b041e520c",
+    "answers": [
+      "41.1. БЕЛОУШКА\n41.2. ЖАБА"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "b54d8e38d6db699d67176474b3f7411e",
+    "answers": [
+      "A, C"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "5497af3bc32cefa616e21c6c510f1212",
+    "answers": [
+      "43.1. Национални парк, Сплитско-далматински морски парк\n\n43.2. Кречњачке стене"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "6a81a3b1467371afbebad0874397ec95",
+    "answers": [
+      "44.1. T-limfoцити су модификовани поступком означеним бројем 2 на слици. На који начин се постиже такво модификовање T-limfoцита? \n\n44.2"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "793db6e421f6a36fdff20d3321c6ec1a",
+    "answers": [
+      "47.1. Proizvodnja (produkcijski nivo) ekosistema prikazuje nivo oznacen brojem 1 na slici.\n\n47.2. Biomasa proizvođača na slici oznacenoj slov"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "9d89f880bb1eadf48134b96ab2fa0560",
+    "answers": [
+      "49.1. A, B, C, D, E, F, G, H  \n49.2. D, Желудак"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "818aa832b61cd68d227c7133169dab74",
+    "answers": [
+      "B"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "f41dce43ab7ed46b358ff5e38b04db16",
+    "answers": [
+      "52.1. Хаплоидни стадијуми: F, D; Диплоидни стадијуми: A, B, C, E"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "b62064d536bff721b9eff6c0030af5ef",
+    "answers": [
+      "Природно селекција"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "0b7fb187e80def0ed8efc362f6183e04",
+    "answers": [
+      "I. - 1: AA, II. - 3: Aa"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "b35854d64b2a4c3146c10bb41af1c1e3",
+    "answers": [
+      "55.1. Еволуција адаптације\n55.2. Крила лептира и крила колибрића\n55.3. Криптоанагогија"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "fd911296a0737a6fbeab2b8ea45c584d",
+    "answers": [
+      "3"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "a7168e777cd5aa03088bb64abca0faaf",
+    "answers": [
+      "204 kPa"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "e4a0ce0e083c72834b128247e318a05f",
+    "answers": [
+      "150 μN"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "a59c699064afc2629a2f6d4159fd0d6f",
+    "answers": [
+      "Kukeri"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "6fccf27bf62dbd196d90510fdd28631e",
+    "answers": [
+      "Камена гриба, ерозија"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "8f9649dec256764f4fa04a055894cfb5",
+    "answers": [
+      "Март и мај"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "44602a8c584a5c2d2ea2249209657968",
+    "answers": [
+      "Ветар је бризант и дува од запада ка истоку."
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "6caa07295af1f8cca768de22afcbb47a",
+    "answers": [
+      "CO2, CH4, O3"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "a513e37e7ac79813f6bfe771b755d855",
+    "answers": [
+      "Загреб има систем заштите од поплава са бранама и регулацијом реке."
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "338620ca6c787a14ccd333263833f3dc",
+    "answers": [
+      "4 - 1 - 2 - 3"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "9ade13efb6ec5da0d6144d81c1cd3aad",
+    "answers": [
+      "Тропски појас"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "227806dd5e68787fa53ba77822aaecad",
+    "answers": [
+      "Varaždin, Samobor, Karlovac"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "1909ee9b80697a52a9bd09c5be078622",
+    "answers": [
+      "Град приказан на фотографији припада арапском типу града."
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "e8c18f92818481acb957094bcda90439",
+    "answers": [
+      "Hrvatska"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "ebb3b7c6a3ff5c33c7c1f468706e3e10",
+    "answers": [
+      "druženje sa prijateljima"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "060e652ef06c2d306c3f1c6d9586cf50",
+    "answers": [
+      "620 971"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "f384c627d92a2f75fb7a1c9ae3917b3e",
+    "answers": [
+      "Пример позитивног утицаја: производња електричне енергије.\nПример негативног утицаја: промена екосистема."
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "1efad7213d28bbf4cf3806ecdf74516c",
+    "answers": [
+      "Позитивна последица: Смањење штетних ефеката вожње.\nНегативна последица: Потенцијално повећано ризик од криминалне активности у аут"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "f6be8edf5fbb8ffd812f6e645072c2fa",
+    "answers": [
+      "Септик"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "2ad99425c513081937ee4fb9e982f561",
+    "answers": [
+      "Норвешка (највиша категорија), Јемен (најнижа категорија)"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "fbfda6dcac78cd16d0d5a9e236c48ef6",
+    "answers": [
+      "Група људи и животиња важна за привреду субекуменског подручја је караванска трговина."
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "1603d7db8406ccf61a4f76325120f7e4",
+    "answers": [
+      "01010010"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "c7cbc4855d5e3312b4971dcf28d634c3",
+    "answers": [
+      "Nova mapa"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "bd33b9b9463f0c20ed922d690676410a",
+    "answers": [
+      "36.1. 3-метилпентанон\n36.2. CoCl₂"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "9726a8a735d9c5e25a57fa7402ceafa8",
+    "answers": [
+      "Ks(AB) = 1.5 × 10^-3"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "f89cd6cf5ffd6b47b9df34a18850d6f4",
+    "answers": [
+      "44.1. CH₃CH₂OH\n44.2. CH₃COOH\n44.3. Дегидратација\n44.4. +2"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "7e0e358ff99b00e458331bda8cfe6ddf",
+    "answers": [
+      "10 дана"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "03455258390bbd44512d48f63b61687e",
+    "answers": [
+      "36.1. 2\n36.2. √5"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "5c31b223d23028a0e4c9feaa3729d5d4",
+    "answers": [
+      "Одличан (5) - 65, Врло добар (4) - 144, Добар (3) - 218, Довољан (2) - 96"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "a1f9a9d5ec8db503cd92c198ee7be30e",
+    "answers": [
+      "Радна фаза памћења"
+    ],
+    "language": "Serbian"
+  },
+  {
+    "question_id": "3d5e1a91890b13ec5bc8675de0a0135f",
+    "answers": [
+      "Социјална анамнеза"
+    ],
+    "language": "Serbian"
+  }
+]
