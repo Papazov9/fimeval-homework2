@@ -8,12 +8,7 @@ from src.utils.language import to_full_language
 
 
 def main():
-    ap = argparse.ArgumentParser(
-        description=(
-            "Build a gold JSON in the format the official evaluate_qa.py expects: "
-            "[{question_id, answers: [..], language}, ...]. Use with the dev split."
-        )
-    )
+    ap = argparse.ArgumentParser()
     ap.add_argument("--dataset", default="SU-FMI-AI/ImageCLEF-MR2026-OpenQA-Visual")
     ap.add_argument("--split", default="dev")
     ap.add_argument("--output", default="outputs/gold_dev.json")
