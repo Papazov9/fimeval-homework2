@@ -1,14 +1,14 @@
-datasets>=2.16
-huggingface_hub>=0.24
+datasets>=2.16,<5
+huggingface_hub>=0.24,<1.0
 pillow
 tqdm
 numpy
 torch>=2.2
-transformers>=4.49
-accelerate>=0.33
+transformers>=4.49,<5
+accelerate>=0.33,<2
 
 sacrebleu
 rouge-score
 nltk
-unbabel-comet
+unbabel-comet>=2.2.0
 python-dotenv
