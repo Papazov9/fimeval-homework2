@@ -346,15 +346,19 @@ def step_comet(items: List[Dict], batch_size: int = 64):
     return avg(all_scores), lang_scores
 
 
-def evaluate_openqa(items: List[Dict], batch_size_comet: int = 64) -> Dict:
+def evaluate_openqa(items: List[Dict], batch_size_comet: int = 64, skip_comet: bool = False) -> Dict:
     ensure_nltk_meteor_resources()
 
     bleu_overall, bleu_lang   = step_bleu(items)
     rouge_overall, rouge_lang = step_rouge(items)
     meteor_overall, meteor_lang = step_meteor(items)
-    comet_overall, comet_lang   = step_comet(items, batch_size=batch_size_comet)
 
-    # Flat comet keys as requested: comet_overall, comet_{lang}
+    if skip_comet:
+        comet_overall = None
+        comet_lang = {}
+    else:
+        comet_overall, comet_lang = step_comet(items, batch_size=batch_size_comet)
+
     comet_section: Dict = {"comet_overall": comet_overall}
     for lang, score in sorted(comet_lang.items()):
         comet_section[f"comet_{normalise_language(lang)}"] = score
@@ -387,6 +391,9 @@ def main():
     ap.add_argument("--pred_file", required=True)
     ap.add_argument("--gold_file", required=True)
     ap.add_argument("--batch_size_comet", type=int, default=64)
+    ap.add_argument("--skip_comet", action="store_true",
+                    help="Skip the COMET step entirely (e.g. when disk-constrained). "
+                         "Other metrics are computed as usual; comet_* fields will be null.")
     ap.add_argument(
         "--out_file",
         type=str,
@@ -402,7 +409,7 @@ def main():
 
     items = load_input_data(args.gold_file, args.pred_file)
 
-    report = evaluate_openqa(items, batch_size_comet=args.batch_size_comet)
+    report = evaluate_openqa(items, batch_size_comet=args.batch_size_comet, skip_comet=args.skip_comet)
 
     out_dir = os.path.dirname(os.path.abspath(args.out_file))
     ensure_outdir(out_dir)
